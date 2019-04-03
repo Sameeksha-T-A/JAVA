@@ -1,3 +1,6 @@
+//User Interface for an Image Processing Application
+
+
 import javax.swing.*;  
 class MenuView  
 {  
